@@ -1,6 +1,7 @@
-package br.com.IntegracaoSankhya.estudos.doal.menuInterativo.view;
+package br.com.estudos.menuInterativo.view;
 
-import br.com.IntegracaoSankhya.estudos.doal.menuInterativo.controller.Informacoes;
+import br.com.estudos.menuInterativo.controller.Informacoes;
+
 import java.util.Scanner;
 
 public class Cadastros {

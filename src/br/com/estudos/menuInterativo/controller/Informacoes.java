@@ -1,7 +1,9 @@
-package br.com.IntegracaoSankhya.estudos.doal.menuInterativo.controller;
+package br.com.estudos.menuInterativo.controller;
 
-import br.com.IntegracaoSankhya.estudos.doal.menuInterativo.model.DadosAluno;
-import br.com.IntegracaoSankhya.estudos.doal.menuInterativo.model.DadosPessoais;
+
+import br.com.estudos.menuInterativo.model.DadosAluno;
+import br.com.estudos.menuInterativo.model.DadosPessoais;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

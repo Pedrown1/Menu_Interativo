@@ -1,4 +1,4 @@
-package br.com.IntegracaoSankhya.estudos.doal.menuInterativo.model;
+package br.com.estudos.menuInterativo.model;
 
 public class DadosPessoais {
 
